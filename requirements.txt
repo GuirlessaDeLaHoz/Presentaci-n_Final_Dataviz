@@ -13,6 +13,8 @@ Werkzeug
 requests
 joblib
 tenacity
+gunicorn
+
 
 
 
